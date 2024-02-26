@@ -2,7 +2,6 @@ from models.t2image import get_model_class, print_all_model_names
 
 # Dalle3   # Don't need GPU
 
-OAI_KEY="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" # Zhiqiu's key
 MJ_SERVER_URL = 'https://midjourney-proxy-production-402a.up.railway.app/' # default. don't change if you're baiqi
 
 
